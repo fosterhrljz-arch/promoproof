@@ -1,0 +1,8 @@
+4871158de5e0f5fe8fe76342c3a7f4c30fb5e9636967a73a34b3f3910991af44  PromoProof-v1.0-source-backup.zip
+9eac28fc95bf1f5b95dc4336b83d37c8826c435a81c7ce804fb142b723fd8b33  PromoProof-v1.0.zip
+abe788c5cc4a6994befb1a344a63c03c4bb0ac54ca343e298a0237841e1b3e94  PromoProof-v2.0-local.zip
+fa84a3df09fcedf3db16d2d03f29f757e118a8c0d4e0d8cee9c677ca4ff4466a  PromoProof-v2.0-source-backup.zip
+818268cac553e1fc8821b83f0cbfd39fd3dcce2aeb84b9bd9c71248bd61375c2  PromoProof-v2.1-before-v2.2.zip
+f482b0b324636eba4d76ea857df35d026f6057acb9e448213ca24d444c32d490  PromoProof-v2.1-delivery.zip
+e85541db8a6d596941e3c754a5f8467d51be38dc35dc99957fb27e0aac0933ce  PromoProof-v2.2-delivery.zip
+18456d3c1486a620ff6719e1f0c779dc55e2f6b612cc0494da45dba084705b95  promoproof-v1-deploy.tar.gz

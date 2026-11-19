@@ -1,0 +1,18 @@
+PROMOPROOF v2.2
+
+1. Extract the entire ZIP to a stable folder.
+2. Open PromoProof.html in Microsoft Edge or Google Chrome.
+3. Choose Explore example.
+
+SUCCESS: expected contribution is $3,090, change versus normal is +$290,
+and 164 units are needed to protect normal profit.
+
+No installation, Node.js or command line is needed to use the app.
+Read README.md for the illustrated guide, financial model, exports and limits.
+
+Save analysis explicitly. Keep JSON backups before moving the file, switching
+browsers or clearing browser data. CSV and PDF are reports, not backups.
+
+Windows direct-file launch and the native print dialog were not fully verified
+in the test environment. The production browser workflow, standalone build,
+and direct PDF download were verified. See docs/QA-v2.2.md.

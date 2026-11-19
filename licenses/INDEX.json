@@ -1,0 +1,227 @@
+[
+  {
+    "package": "@babel/runtime",
+    "version": "7.29.14",
+    "license": "MIT",
+    "notice_files": [
+      "@babel__runtime/LICENSE"
+    ]
+  },
+  {
+    "package": "@fontsource/inter",
+    "version": "5.2.5",
+    "license": "OFL-1.1",
+    "notice_files": [
+      "@fontsource__inter/LICENSE"
+    ]
+  },
+  {
+    "package": "@types/pako",
+    "version": "2.0.4",
+    "license": "MIT",
+    "notice_files": [
+      "@types__pako/LICENSE"
+    ]
+  },
+  {
+    "package": "@types/raf",
+    "version": "3.4.3",
+    "license": "MIT",
+    "notice_files": [
+      "@types__raf/LICENSE"
+    ]
+  },
+  {
+    "package": "@types/trusted-types",
+    "version": "2.0.7",
+    "license": "MIT",
+    "notice_files": [
+      "@types__trusted-types/LICENSE"
+    ]
+  },
+  {
+    "package": "base64-arraybuffer",
+    "version": "1.0.2",
+    "license": "MIT",
+    "notice_files": [
+      "base64-arraybuffer/LICENSE"
+    ]
+  },
+  {
+    "package": "canvg",
+    "version": "3.0.11",
+    "license": "MIT",
+    "notice_files": [
+      "canvg/LICENSE"
+    ]
+  },
+  {
+    "package": "core-js",
+    "version": "3.51.0",
+    "license": "MIT",
+    "notice_files": [
+      "core-js/LICENSE"
+    ]
+  },
+  {
+    "package": "css-line-break",
+    "version": "2.2.0",
+    "license": "MIT",
+    "notice_files": [
+      "css-line-break/LICENSE"
+    ]
+  },
+  {
+    "package": "dompurify",
+    "version": "3.4.18",
+    "license": "(MPL-2.0 OR Apache-2.0)",
+    "notice_files": [
+      "dompurify/LICENSE",
+      "dompurify/LICENSE-MPL"
+    ]
+  },
+  {
+    "package": "fast-png",
+    "version": "6.4.0",
+    "license": "MIT",
+    "notice_files": [
+      "fast-png/LICENSE"
+    ]
+  },
+  {
+    "package": "fflate",
+    "version": "0.8.3",
+    "license": "MIT",
+    "notice_files": [
+      "fflate/LICENSE"
+    ]
+  },
+  {
+    "package": "html2canvas",
+    "version": "1.4.1",
+    "license": "MIT",
+    "notice_files": [
+      "html2canvas/LICENSE"
+    ]
+  },
+  {
+    "package": "iobuffer",
+    "version": "5.4.0",
+    "license": "MIT",
+    "notice_files": [
+      "iobuffer/LICENSE"
+    ]
+  },
+  {
+    "package": "jspdf",
+    "version": "4.2.1",
+    "license": "MIT",
+    "notice_files": [
+      "jspdf/LICENSE"
+    ]
+  },
+  {
+    "package": "lucide-react",
+    "version": "0.468.0",
+    "license": "ISC",
+    "notice_files": [
+      "lucide-react/LICENSE"
+    ]
+  },
+  {
+    "package": "pako",
+    "version": "2.2.0",
+    "license": "(MIT AND Zlib)",
+    "notice_files": [
+      "pako/LICENSE"
+    ]
+  },
+  {
+    "package": "performance-now",
+    "version": "2.2.0",
+    "license": "MIT",
+    "notice_files": [
+      "performance-now/license.txt"
+    ]
+  },
+  {
+    "package": "raf",
+    "version": "3.4.1",
+    "license": "MIT",
+    "notice_files": [
+      "raf/LICENSE"
+    ]
+  },
+  {
+    "package": "react",
+    "version": "19.2.0",
+    "license": "MIT",
+    "notice_files": [
+      "react/LICENSE"
+    ]
+  },
+  {
+    "package": "react-dom",
+    "version": "19.2.0",
+    "license": "MIT",
+    "notice_files": [
+      "react-dom/LICENSE"
+    ]
+  },
+  {
+    "package": "regenerator-runtime",
+    "version": "0.13.11",
+    "license": "MIT",
+    "notice_files": [
+      "regenerator-runtime/LICENSE"
+    ]
+  },
+  {
+    "package": "rgbcolor",
+    "version": "1.0.1",
+    "license": "MIT OR SEE LICENSE IN FEEL-FREE.md",
+    "notice_files": [
+      "rgbcolor/LICENSE.md"
+    ]
+  },
+  {
+    "package": "scheduler",
+    "version": "0.27.0",
+    "license": "MIT",
+    "notice_files": [
+      "scheduler/LICENSE"
+    ]
+  },
+  {
+    "package": "stackblur-canvas",
+    "version": "2.7.0",
+    "license": "MIT",
+    "notice_files": [
+      "stackblur-canvas/LICENSE-MIT.txt"
+    ]
+  },
+  {
+    "package": "svg-pathdata",
+    "version": "6.0.3",
+    "license": "MIT",
+    "notice_files": [
+      "svg-pathdata/LICENSE"
+    ]
+  },
+  {
+    "package": "text-segmentation",
+    "version": "1.0.3",
+    "license": "MIT",
+    "notice_files": [
+      "text-segmentation/LICENSE"
+    ]
+  },
+  {
+    "package": "utrie",
+    "version": "1.0.2",
+    "license": "MIT",
+    "notice_files": [
+      "utrie/LICENSE"
+    ]
+  }
+]

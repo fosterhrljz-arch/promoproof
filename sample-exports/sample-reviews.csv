@@ -1,0 +1,7 @@
+﻿"Analysis","Product","Currency","Original scenario","Plan captured","Metric","Planned (expected assumption)","Actual (user entered)","Actual minus planned","Notes"
+"Canvas tote promotion","Canvas tote","USD","20% weekend offer","2026-11-17T12:52:54.803Z","Units sold","180","175","-5","Include payment fees in the next plan. Actual demand was five units below expected."
+"Canvas tote promotion","Canvas tote","USD","20% weekend offer","2026-11-17T12:52:54.803Z","Revenue","7200","7000","-200","Include payment fees in the next plan. Actual demand was five units below expected."
+"Canvas tote promotion","Canvas tote","USD","20% weekend offer","2026-11-17T12:52:54.803Z","Variable costs","3960","3850","-110","Include payment fees in the next plan. Actual demand was five units below expected."
+"Canvas tote promotion","Canvas tote","USD","20% weekend offer","2026-11-17T12:52:54.803Z","Selling fees","0","203","203","Include payment fees in the next plan. Actual demand was five units below expected."
+"Canvas tote promotion","Canvas tote","USD","20% weekend offer","2026-11-17T12:52:54.803Z","Campaign expenses","150","170","20","Include payment fees in the next plan. Actual demand was five units below expected."
+"Canvas tote promotion","Canvas tote","USD","20% weekend offer","2026-11-17T12:52:54.803Z","Contribution profit","3090","2777","-313","Include payment fees in the next plan. Actual demand was five units below expected."

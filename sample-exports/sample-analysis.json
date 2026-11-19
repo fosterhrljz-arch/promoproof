@@ -1,0 +1,118 @@
+{
+  "app": "PromoProof",
+  "version": 2,
+  "exportedAt": "2026-11-17T12:53:22.053Z",
+  "analyses": [
+    {
+      "id": "fe28888f-03f2-42bd-87ee-7c93dff49c61",
+      "name": "Canvas tote promotion",
+      "product": "Canvas tote",
+      "period": "30-day period",
+      "currency": "USD",
+      "goal": {
+        "type": "profit",
+        "sellThrough": "80",
+        "lossBudget": "0",
+        "extraProfit": "0"
+      },
+      "base": {
+        "price": "50",
+        "cost": "22",
+        "normalUnits": "100",
+        "fulfillment": "0",
+        "otherCost": "0",
+        "feeRate": "0",
+        "inventory": "220"
+      },
+      "scenarios": [
+        {
+          "id": "c08148eb-6b62-4169-9cff-5b8cb2a5c910",
+          "name": "20% weekend offer",
+          "discount": "20",
+          "conservative": "140",
+          "units": "180",
+          "optimistic": "220",
+          "expenses": "150",
+          "rangeSet": true
+        },
+        {
+          "id": "83100c27-b77d-49a5-b0c5-2642dc278372",
+          "name": "10% gentle nudge",
+          "discount": "10",
+          "conservative": "115",
+          "units": "130",
+          "optimistic": "150",
+          "expenses": "100",
+          "rangeSet": true
+        },
+        {
+          "id": "c40882bd-214b-4f3d-bfba-2174b6475078",
+          "name": "30% deeper discount",
+          "discount": "30",
+          "conservative": "160",
+          "units": "200",
+          "optimistic": "240",
+          "expenses": "150",
+          "rangeSet": true
+        },
+        {
+          "id": "e85e6f27-ff85-4a6d-a61a-35a0eb40fcf7",
+          "name": "5% margin-first option",
+          "discount": "5",
+          "conservative": "115",
+          "units": "130",
+          "optimistic": "150",
+          "expenses": "100",
+          "rangeSet": true
+        }
+      ],
+      "reviews": [
+        {
+          "id": "0336889c-1001-4fa3-adc6-d1f663c38cbe",
+          "scenarioId": "c08148eb-6b62-4169-9cff-5b8cb2a5c910",
+          "plan": {
+            "name": "Canvas tote promotion",
+            "product": "Canvas tote",
+            "period": "30-day period",
+            "currency": "USD",
+            "base": {
+              "price": "50",
+              "cost": "22",
+              "normalUnits": "100",
+              "fulfillment": "0",
+              "otherCost": "0",
+              "feeRate": "0",
+              "inventory": "220"
+            },
+            "goal": {
+              "type": "profit",
+              "sellThrough": "80",
+              "lossBudget": "0",
+              "extraProfit": "0"
+            },
+            "scenario": {
+              "id": "c08148eb-6b62-4169-9cff-5b8cb2a5c910",
+              "name": "20% weekend offer",
+              "discount": "20",
+              "conservative": "140",
+              "units": "180",
+              "optimistic": "220",
+              "expenses": "150",
+              "rangeSet": true
+            },
+            "capturedAt": "2026-11-17T12:52:54.803Z"
+          },
+          "actual": {
+            "units": "175",
+            "revenue": "7000",
+            "variableCosts": "3850",
+            "fees": "203",
+            "expenses": "170",
+            "notes": "Include payment fees in the next plan. Actual demand was five units below expected."
+          }
+        }
+      ],
+      "updatedAt": "2026-11-17T12:53:01.999Z"
+    }
+  ]
+}

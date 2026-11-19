@@ -1,0 +1,9 @@
+# Design specification
+
+Concepts generated with the built-in ImageGen tool: `concept-home.png` and `concept-analysis.png` (1536×1024). Prompt direction: a complete editorial retail-profit planning app, true white panels on cool gray, dark teal and mint for primary actions/results, muted coral for losses, Inter typography, open metric columns, paired charts and tables, and native HTML/SVG controls. The home includes a clear creation action, explicit illustrative comparison, a three-step guide, and a saved-analysis list. The analysis includes a baseline form, promotion inputs, profit verdict, metrics, sales-threshold chart, and financial breakdown. No raster images are required by the shipped UI.
+
+Tokens: page #f5f7f8; surface #ffffff; ink #142c33; primary #176354; positive #e7f4ec; border #dce4e7; muted #677b82; loss #b54d43; loss surface #fff0ec. Inter 400/500/600/700 is bundled. Desktop gutters 48px; tablet 28px; phone 16px. Panel radii 11–12px, control radii 5–7px. Icons are Lucide outlines with a solid P brand mark. Reduced-motion preferences are honored.
+
+Main component families: app shell, buttons, fields, metric columns, verdict band, chart, data table, scenario toolbar, library rows, and native modal dialogs. UI architecture separates the home, assumptions, results, chart, comparison, common controls, and application state.
+
+Necessary extensions to the conceptual screen are explicit editable analysis/scenario names, currency/period controls, a scenario selector, import/export controls, keyboard-operable chart exploration, unsaved-change notices, validation and recovery states. An empty library replaces the concept’s illustrative saved rows until the user actually saves work. The save button says “Save analysis” because it saves every scenario and the shared baseline. The home’s sample bars remain clearly marked as an example.

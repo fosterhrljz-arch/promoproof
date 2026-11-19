@@ -1,0 +1,12 @@
+import fs from 'node:fs/promises';
+import assert from 'node:assert/strict';
+const html=await fs.readFile(new URL('../dist/index.html',import.meta.url),'utf8');
+assert.match(html,/<html lang="en">/);
+assert.match(html,/<script type="module">/);
+assert.doesNotMatch(html,/<script[^>]+src=/);
+assert.doesNotMatch(html,/<link[^>]+\.css/);
+const css=[...html.matchAll(/<style[^>]*>([\s\S]*?)<\/style>/g)].map(m=>m[1]).join('\n');
+const urls=[...css.matchAll(/url\(([^)]+)\)/g)].map(m=>m[1].replace(/^['"]|['"]$/g,''));
+assert.ok(urls.length>0);
+assert.ok(urls.every(url=>url.startsWith('data:')),'Every CSS font/asset must be embedded');
+console.log(`Standalone artifact verified: ${Buffer.byteLength(html).toLocaleString('en-US')} bytes; ${urls.length} embedded assets; no external script or stylesheet dependencies.`);

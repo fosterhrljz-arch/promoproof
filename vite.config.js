@@ -1,0 +1,3 @@
+import {defineConfig} from 'vite';
+import react from '@vitejs/plugin-react';
+export default defineConfig({base:'./',plugins:[react()],build:{assetsInlineLimit:200000,modulePreload:false,cssCodeSplit:false,rollupOptions:{output:{inlineDynamicImports:true}}}});
